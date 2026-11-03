@@ -1,0 +1,80 @@
+{
+  "title": "Infinite Dungeons",
+  "description": "Head down a bottomless crypt with your friends: smash skeletons, grab rarer and rarer weapons, bring down the Bone Colossus and the Ossuary Warden, then choose between leaving with your loot or going deeper. Up to 4 players on one screen, with keyboard, mouse or controllers, or solo with an AI companion. Also playable in French.",
+  "entrypoint": "index.html",
+  "license": "MIT",
+  "genre": [
+    "action",
+    "roguelite",
+    "coop"
+  ],
+  "themes": [
+    "dungeon",
+    "fantasy",
+    "skeletons"
+  ],
+  "controls": [
+    "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
+    "Second player on the same keyboard: the arrow keys to move (aiming and attacking are automatic), Enter or Right Shift to dodge, / for the power (! on AZERTY), . to pick up (: on AZERTY)",
+    "Controller: left stick to move, right stick to aim and attack, RT for the power, LT to dodge, A to pick up, open or revive",
+    "Hero screen: C (or Y on a controller) adds an AI companion",
+    "Esc or Start: pause. M: mute. F: fullscreen, from the menus"
+  ],
+  "credits": [
+    "Designed and programmed by Claude, Anthropic's AI model",
+    "Music made with Suno and ElevenLabs, sound effects with ElevenLabs, under the usage rights of the accounts used; see CREDITS.md",
+    "Code under the MIT License; the music, sound effects and fonts keep their own rights",
+    "Fonts: Lilita One (Juan Montoreano) and Nunito (The Nunito Project Authors), SIL Open Font License 1.1",
+    "three.js, MIT License, © 2010-2026 three.js authors"
+  ],
+  "cover": "art/cover.jpg",
+  "screenshots": [
+    "shots/1-combat.webp",
+    "shots/2-cartes.webp",
+    "shots/3-arme-rare.webp",
+    "shots/4-colosse.webp",
+    "shots/5-gardien.webp",
+    "shots/6-coop.webp"
+  ],
+  "presentation": {
+    "schemaVersion": 1,
+    "sections": [
+      {
+        "id": "le-jeu",
+        "title": "A bottomless crypt",
+        "width": "full",
+        "file": "presentation/le-jeu.md"
+      },
+      {
+        "id": "heros",
+        "title": "Three heroes",
+        "width": "full",
+        "file": "presentation/heros.md"
+      },
+      {
+        "id": "armes",
+        "title": "Weapons and rarities",
+        "width": "full",
+        "file": "presentation/armes.md"
+      },
+      {
+        "id": "monstres",
+        "title": "Monsters, and the big ones",
+        "width": "full",
+        "file": "presentation/monstres.md"
+      },
+      {
+        "id": "ensemble",
+        "title": "Together on one screen",
+        "width": "full",
+        "file": "presentation/ensemble.md"
+      },
+      {
+        "id": "fabrication",
+        "title": "How it was made",
+        "width": "full",
+        "file": "presentation/fabrication.md"
+      }
+    ]
+  }
+}
