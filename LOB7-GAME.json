@@ -1,6 +1,6 @@
 {
   "title": "Infinite Dungeons",
-  "description": "Head down a bottomless crypt with your friends: smash skeletons, grab rarer and rarer weapons, bring down the Bone Colossus and the Ossuary Warden, then choose between leaving with your loot or going deeper. Up to 4 players on one screen, with keyboard, mouse or controllers, or solo with an AI companion. Also playable in French.",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse or controllers, or solo with an AI companion. Also playable in French.",
   "entrypoint": "index.html",
   "license": "MIT",
   "genre": [
@@ -11,7 +11,8 @@
   "themes": [
     "dungeon",
     "fantasy",
-    "skeletons"
+    "skeletons",
+    "lava"
   ],
   "controls": [
     "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
@@ -22,7 +23,8 @@
   ],
   "credits": [
     "Designed and programmed by Claude, Anthropic's AI model",
-    "Music made with Suno and ElevenLabs, sound effects with ElevenLabs, under the usage rights of the accounts used; see CREDITS.md",
+    "The Sunken Forge pack, and the engine pieces it needed, built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude",
+    "Music made with Suno and ElevenLabs, sound effects with ElevenLabs or synthesized by the game, under the usage rights of the accounts used; see CREDITS.md",
     "Code under the MIT License; the music, sound effects and fonts keep their own rights",
     "Fonts: Lilita One (Juan Montoreano) and Nunito (The Nunito Project Authors), SIL Open Font License 1.1",
     "three.js, MIT License, © 2010-2026 three.js authors"
@@ -30,7 +32,7 @@
   "cover": "art/cover.jpg",
   "screenshots": [
     "shots/1-combat.webp",
-    "shots/2-cartes.webp",
+    "shots/2-forge.webp",
     "shots/3-arme-rare.webp",
     "shots/4-colosse.webp",
     "shots/5-gardien.webp",
@@ -41,13 +43,13 @@
     "sections": [
       {
         "id": "le-jeu",
-        "title": "A bottomless crypt",
+        "title": "A bottomless dungeon",
         "width": "full",
         "file": "presentation/le-jeu.md"
       },
       {
         "id": "heros",
-        "title": "Three heroes",
+        "title": "Five heroes",
         "width": "full",
         "file": "presentation/heros.md"
       },
@@ -59,7 +61,7 @@
       },
       {
         "id": "monstres",
-        "title": "Monsters, and the big ones",
+        "title": "Monsters, big ones and lava",
         "width": "full",
         "file": "presentation/monstres.md"
       },

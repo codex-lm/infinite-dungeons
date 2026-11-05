@@ -6,9 +6,9 @@ No manual needed: the controls are carved into the floor of the Entrance, a row 
 
 A few house rules:
 
-- a hero who's **down** gets back up if a friend stays close, holding **Pick up**;
+- a hero who's **down** gets back up if a friend stays close, holding **Pick up** (from the second stratum, the team shares two revives per stratum; once they're spent, the fallen sit out a room);
 - **doors wait for the whole team**;
 - after a room, everyone picks **their own cards**;
-- a weapon chest gives **one weapon to each** hero.
+- a weapon chest holds **one weapon per hero**, plus one to spare.
 
 **Esc** or **Start**: pause. **M**: mute. **F**: fullscreen, from the menus.
