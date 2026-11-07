@@ -8,6 +8,8 @@ Choose your hero. There are five for up to four players, so everyone gets their 
 
 The last two come from **The Sunken Forge**. Everyone has a **dodge** to slip through blows, and a **power** that recharges on its own.
 
+One more, made for fingers on a tablet: **Volte**, the gliding duelist. Hold the dodge and she glides for up to a second, steered by your thumb around a foe; let go when the gold lights up behind its back, and she strikes it hard and gets her glide straight back. She comes as a pack: switch her on in **Options**, then **Packs**.
+
 ![The five heroes, each casting their power, with their weapon and power below](presentation/images/heros.webp)
 
 A weapon found once stays in your **Arsenal**: next run, you can start with it.

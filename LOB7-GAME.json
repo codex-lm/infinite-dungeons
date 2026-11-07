@@ -1,6 +1,6 @@
 {
   "title": "Infinite Dungeons",
-  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse or controllers, or solo with an AI companion. Also playable in French.",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse, controllers, or by finger on a phone or tablet, or solo with an AI companion. Also playable in French.",
   "entrypoint": "index.html",
   "license": "MIT",
   "genre": [
@@ -18,12 +18,14 @@
     "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
     "Second player on the same keyboard: the arrow keys to move (aiming and attacking are automatic), Enter or Right Shift to dodge, / for the power (! on AZERTY), . to pick up (: on AZERTY)",
     "Controller: left stick to move, right stick to aim and attack, RT for the power, LT to dodge, A to pick up, open or revive",
+    "Touch screen: left thumb to move, right thumb to aim and attack (auto-aim on by default), the buttons beside it to dodge, cast the power and pick up; every menu works by finger",
     "Hero screen: C (or Y on a controller) adds an AI companion",
     "Esc or Start: pause. M: mute. F: fullscreen, from the menus"
   ],
   "credits": [
     "Designed and programmed by Claude, Anthropic's AI model",
     "The Sunken Forge pack, and the engine pieces it needed, built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude",
+    "The hero Volte (a pack), built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude",
     "Music made with Suno and ElevenLabs, sound effects with ElevenLabs or synthesized by the game, under the usage rights of the accounts used; see CREDITS.md",
     "Code under the MIT License; the music, sound effects and fonts keep their own rights",
     "Fonts: Lilita One (Juan Montoreano) and Nunito (The Nunito Project Authors), SIL Open Font License 1.1",
