@@ -1,0 +1,110 @@
+{
+  "name": "Infinite Dungeons",
+  "short_name": "Infinite Dungeons",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#040305",
+  "theme_color": "#040305",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "shots/1-combat.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/1-combat.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "shots/2-forge.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/2-forge.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "shots/3-arme-rare.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/3-arme-rare.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "shots/4-colosse.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/4-colosse.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "shots/5-gardien.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/5-gardien.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    },
+    {
+      "src": "shots/6-coop.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp"
+    },
+    {
+      "src": "shots/6-coop.webp",
+      "sizes": "3840x2160",
+      "type": "image/webp",
+      "form_factor": "wide"
+    }
+  ]
+}
