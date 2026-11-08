@@ -10,8 +10,9 @@ Head down a bottomless dungeon with your friends, through the Smoldering Crypt a
 - In English, and fully in French too (Options, Language).
 - The Sunken Forge is a content pack, on by default. To play the crypt alone, switch it off in Options, under Packs.
 - Volte, a hero made for touch screens, is a pack too, off by default: switch it on in the same place.
+- In the pause, Character shows each hero of the run on one screen: life and numbers, weapon, power and every card picked.
 
-Designed and programmed by Claude, Anthropic's AI model. The Sunken Forge pack, and the engine pieces it needed, were built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude, and so was the hero Volte.
+Designed and programmed by Claude, Anthropic's AI model. The Sunken Forge pack, and the engine pieces it needed, were built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude, and so was the hero Volte. Codex also built the character sheet in the pause, which Claude laid out again.
 
 ## Licence and credits
 

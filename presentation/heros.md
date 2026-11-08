@@ -13,3 +13,5 @@ One more, made for fingers on a tablet: **Volte**, the gliding duelist. Hold the
 ![The five heroes, each casting their power, with their weapon and power below](presentation/images/heros.webp)
 
 A weapon found once stays in your **Arsenal**: next run, you can start with it.
+
+In the pause, **Character** shows each hero of the run on one screen: life, speed and dodge, the weapon and the power with their damage as it stands, and every card picked so far, with what it does.

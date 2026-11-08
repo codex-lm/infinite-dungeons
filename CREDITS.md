@@ -7,6 +7,8 @@ by Claude.
 
 **Volte**, a hero pack made for touch screens, built by Codex, an AI coding agent, from Claude's brief and reviewed by Claude.
 
+The **character sheet** in the pause, built by Codex, an AI coding agent, and laid out again by Claude.
+
 The game's code is under the MIT License (see `LICENSE`). What follows is bundled in `index.html` and keeps its own rights.
 
 ## Music
