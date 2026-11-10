@@ -1,7 +1,7 @@
 {
   "name": "Infinite Dungeons",
   "short_name": "Infinite Dungeons",
-  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper.",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt, the lava of The Sunken Forge and the giant mushrooms of Toadstool Hollow: smash skeletons, forge brutes and frogs, grab rarer and rarer weapons up to Mythic and Legendary, bring down the Ossuary Warden, The Forgemaster and The Toad King, then leave with your loot or go deeper.",
   "lang": "en",
   "dir": "ltr",
   "start_url": "./",
@@ -63,12 +63,12 @@
       "form_factor": "wide"
     },
     {
-      "src": "shots/3-arme-rare.webp",
+      "src": "shots/3-roi-crapaud.webp",
       "sizes": "3840x2160",
       "type": "image/webp"
     },
     {
-      "src": "shots/3-arme-rare.webp",
+      "src": "shots/3-roi-crapaud.webp",
       "sizes": "3840x2160",
       "type": "image/webp",
       "form_factor": "wide"
