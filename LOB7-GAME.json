@@ -1,6 +1,6 @@
 {
   "title": "Infinite Dungeons",
-  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt and the lava and furnaces of The Sunken Forge: smash skeletons and forge brutes, grab rarer and rarer weapons, bring down the Bone Colossus, the Ossuary Warden and The Forgemaster, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse, controllers, or by finger on a phone or tablet, or solo with an AI companion. Also playable in French.",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt, the lava of The Sunken Forge and the giant mushrooms of Toadstool Hollow: smash skeletons, forge brutes and frogs, grab rarer and rarer weapons up to Mythic and Legendary, bring down the Ossuary Warden, The Forgemaster and The Toad King, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse, controllers, or by finger on a phone or tablet, or solo with an AI companion. Also playable in French.",
   "entrypoint": "index.html",
   "license": "MIT",
   "genre": [
@@ -12,7 +12,8 @@
     "dungeon",
     "fantasy",
     "skeletons",
-    "lava"
+    "lava",
+    "mushrooms"
   ],
   "controls": [
     "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
@@ -36,7 +37,7 @@
   "screenshots": [
     "shots/1-combat.webp",
     "shots/2-forge.webp",
-    "shots/3-arme-rare.webp",
+    "shots/3-roi-crapaud.webp",
     "shots/4-colosse.webp",
     "shots/5-gardien.webp",
     "shots/6-coop.webp"
@@ -58,13 +59,13 @@
       },
       {
         "id": "armes",
-        "title": "Weapons and rarities",
+        "title": "Fifteen weapons, five rarities",
         "width": "full",
         "file": "presentation/armes.md"
       },
       {
         "id": "monstres",
-        "title": "Monsters, big ones and lava",
+        "title": "Monsters, big ones and a toad king",
         "width": "full",
         "file": "presentation/monstres.md"
       },
