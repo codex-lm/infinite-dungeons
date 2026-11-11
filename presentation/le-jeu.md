@@ -10,8 +10,10 @@ You go down one **stratum** at a time, from one world to the next. A stratum is:
 
 Win that last room and two doors open: **Leave** with your loot and +40% score, or **Descend** even deeper. How greedy are you feeling?
 
+**Interrupted?** The game keeps your run as you go, and **Load** on the title picks it up again from the last room you finished. In the pause, **Save** puts it in one of three slots of your choice, and **Save and quit** keeps it for later. The pause also shows a **map** of the stratum: the rooms you've won, the one you're in, and those still to find. And when a won room feels safer, the whole team can **go back** through the door it came in by, holding **Pick up**: the room behind is empty, and the depth you reached stays.
+
 ![The first stratum, a crypt one, as the game rolls it: the Entrance, six fights, two Vaults, the Sanctuary, the Warden, then Leave or Descend, and what waits at the end of each stratum](presentation/images/strate.webp)
 
-It plays in the browser, with no account and nothing to install, on a computer or by finger on a phone or a tablet. The weapons you find and your high scores stay on your machine. The whole game is also in French: go to **Options**, then **Language**.
+It plays in the browser, with no account and nothing to install, on a computer or by finger on a phone or a tablet. The weapons you find, your saved runs and your high scores stay on your machine. The whole game is also in French: go to **Options**, then **Language**.
 
 **Want to keep it?** The same game also installs from [codex-lm.github.io/infinite-dungeons](https://codex-lm.github.io/infinite-dungeons/), on a phone, a tablet or a computer: in your browser's menu, choose the option to install it (**Install app** in Chrome on Android; on an iPhone or an iPad, **Share**, then **Add to Home Screen**). It gets its own icon, opens without the browser's bars (full screen on Android) and plays even offline (on an iPhone or an iPad, open it once from its icon with internet first). Nothing else is downloaded: it's the same web page, kept by your browser, with no more access to your device than here. The installed game keeps its own saves.
