@@ -12,6 +12,8 @@ Win that last room and two doors open: **Leave** with your loot and +40% score, 
 
 **Interrupted?** The game keeps your run as you go, and **Load** on the title picks it up again from the last room you finished. In the pause, **Save** puts it in one of three slots of your choice, and **Save and quit** keeps it for later. The pause also shows a **map** of the stratum: the rooms you've won, the one you're in, and those still to find. And when a won room feels safer, the whole team can **go back** through the door it came in by, holding **Pick up**: the room behind is empty, and the depth you reached stays.
 
+**Too hectic?** Switch on the **Steady pace** in **Options**, then **Packs**. Same dungeon, same crowds, at a calmer pace: everyone walks and swings a little slower, enemies announce their attacks longer and pause between waves, so you have time to see where you're going. They hit harder, though. And picking cards becomes a quiet moment: no clock when you play alone, and if nothing tempts you, **Reroll** for two new cards, then once more for a single one. Each pace keeps its own saved run and its own high scores.
+
 ![The first stratum, a crypt one, as the game rolls it: the Entrance, six fights, two Vaults, the Sanctuary, the Warden, then Leave or Descend, and what waits at the end of each stratum](presentation/images/strate.webp)
 
 It plays in the browser, with no account and nothing to install, on a computer or by finger on a phone or a tablet. The weapons you find, your saved runs and your high scores stay on your machine. The whole game is also in French: go to **Options**, then **Language**.

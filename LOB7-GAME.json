@@ -1,6 +1,6 @@
 {
   "title": "Infinite Dungeons",
-  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt, the lava of The Sunken Forge and the giant mushrooms of Toadstool Hollow: smash skeletons, forge brutes and frogs, grab rarer and rarer weapons up to Mythic and Legendary, bring down the Ossuary Warden, The Forgemaster and The Toad King, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse, controllers, or by finger on a phone or tablet, or solo with an AI companion. Save your run and pick it up later. Also playable in French.",
+  "description": "Head down a bottomless dungeon with your friends, through the Smoldering Crypt, the lava of The Sunken Forge and the giant mushrooms of Toadstool Hollow: smash skeletons, forge brutes and frogs, grab rarer and rarer weapons up to Mythic and Legendary, bring down the Ossuary Warden, The Forgemaster and The Toad King, then leave with your loot or go deeper. Up to 4 players on one screen, with keyboard, mouse, controllers, or by finger on a phone or tablet, or solo with an AI companion. Save your run and pick it up later. Prefer it calmer? Switch on the Steady pace: everyone moves and swings a little slower, attacks are announced longer, enemies hit harder, and you can reroll your cards. Also playable in French.",
   "entrypoint": "index.html",
   "license": "MIT",
   "genre": [
@@ -16,7 +16,7 @@
     "mushrooms"
   ],
   "controls": [
-    "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
+    "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive; at the Steady pace, R rerolls your cards",
     "Second player on the same keyboard: the arrow keys to move (aiming and attacking are automatic), Enter or Right Shift to dodge, / for the power (! on AZERTY), . to pick up (: on AZERTY)",
     "Controller: left stick to move, right stick to aim and attack, RT for the power, LT to dodge, A to pick up, open or revive",
     "Touch screen: left thumb to move, right thumb to aim and attack (auto-aim on by default), the buttons beside it to dodge, cast the power and pick up; every menu works by finger",
