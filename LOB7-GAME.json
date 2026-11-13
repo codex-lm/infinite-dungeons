@@ -16,10 +16,11 @@
     "mushrooms"
   ],
   "controls": [
-    "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive; at the Steady pace, R rerolls your cards",
+    "Keyboard and mouse: W A S D to move (Z Q S D on AZERTY keyboards), the mouse to aim, left click to attack, right click for the power, Space to dodge, E to pick up, open or revive",
     "Second player on the same keyboard: the arrow keys to move (aiming and attacking are automatic), Enter or Right Shift to dodge, / for the power (! on AZERTY), . to pick up (: on AZERTY)",
     "Controller: left stick to move, right stick to aim and attack, RT for the power, LT to dodge, A to pick up, open or revive",
     "Touch screen: left thumb to move, right thumb to aim and attack (auto-aim on by default), the buttons beside it to dodge, cast the power and pick up; every menu works by finger",
+    "Steady pace (Options, Packs): R or the button under the cards rerolls them",
     "Hero screen: C (or Y on a controller) adds an AI companion",
     "Esc or Start: pause. M: mute. F: fullscreen, from the menus"
   ],
